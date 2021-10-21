@@ -1,0 +1,42 @@
+name: laundry
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.4
+  share: ^2.0.4
+
+  intl: ^0.17.0
+  #firebase_core: ^0.4.0+9
+  #firebase_analytics: ^5.0.2
+  #firebase_auth: ^0.14.0+5
+  #cloud_firestore: ^0.12.9+5
+  # firebase_database:
+  cloud_firestore: ^2.5.3
+  firebase_auth: ^3.1.3
+#  geolocator: ^7.6.2
+  #  intl_translation: ^0.17.9
+  pinput: ^1.2.1
+#  flutter_localizations:
+#    sdk: flutter
+  shared_preferences: ^2.0.8
+  provider: ^6.0.1
+  flutter_search_bar: ^3.0.0-dev.1
+  english_words: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+    - local_file/
