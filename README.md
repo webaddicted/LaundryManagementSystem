@@ -1,16 +1,54 @@
-# laundry
+# Laundry Management System
 
-A new Flutter project.
+***You can Install and test latest LaundryManagementSystem app from below 👇***
 
-## Getting Started
+[![LaundryManagementSystem](https://img.shields.io/badge/News%20Post-Apk-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/webaddicted/LaundryManagementSystem/blob/main/apk/app.apk)
 
-This project is a starting point for a Flutter application.
+Laundry Management System id design with help of firebase. uer can login user firebase OTP authentication.
+This app maintain all customer of user and record of all customer using firestore.
 
-A few resources to get you started if this is your first Flutter project:
+This repo contain following component :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1) Retrofit 
+2) Kotlin Coroutines
+3) Koin
+4) Material Design
+5) MVVM
+6) LiveData
+7) Firebase
+8) Firestore
+9) Firebase Notification
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Login Page
+
+<img src="https://github.com/webaddicted/LaundryManagementSystem/raw/main/screenshot/login.jpg" height="500">
+
+
+## Login Module
+
+<img src="https://github.com/webaddicted/LaundryManagementSystem/raw/main/screenshot/login1.jpg" height="500">
+
+
+## Home Page
+
+<img src="https://github.com/webaddicted/LaundryManagementSystem/raw/main/screenshot/home.jpg" height="500">
+
+## Home Module
+
+<img src="https://github.com/webaddicted/LaundryManagementSystem/raw/main/screenshot/home1.jpg" height="500">
+
+
+## LICENSE
+```
+
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+             TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+```
+
+
