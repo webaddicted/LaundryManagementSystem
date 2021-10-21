@@ -1,10 +1,15 @@
 # Laundry Management System
 
+![Open Issue](https://img.shields.io/github/issues/webaddicted/LaundryManagementSystem)
+![Forks](https://img.shields.io/github/forks/webaddicted/LaundryManagementSystem)
+![Stars](https://img.shields.io/github/stars/webaddicted/LaundryManagementSystem)
+![License](https://img.shields.io/github/license/webaddicted/LaundryManagementSystem)
+
 ***You can Install and test latest LaundryManagementSystem app from below 👇***
 
 [![LaundryManagementSystem](https://img.shields.io/badge/Laundry%20Management%20System-Apk-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/webaddicted/LaundryManagementSystem/blob/main/apk/app.apk)
 
-Laundry Management System id design with help of firebase. uer can login user firebase OTP authentication.
+Laundry Management System design with help of firebase. uer can login user firebase OTP authentication.
 This app maintain all customer of user and record of all customer using firestore.
 
 This repo contain following component :
