@@ -2,22 +2,21 @@
 
 ***You can Install and test latest LaundryManagementSystem app from below 👇***
 
-[![LaundryManagementSystem](https://img.shields.io/badge/News%20Post-Apk-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/webaddicted/LaundryManagementSystem/blob/main/apk/app.apk)
+[![LaundryManagementSystem](https://img.shields.io/badge/Laundry%20Management%20System-Apk-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/webaddicted/LaundryManagementSystem/blob/main/apk/app.apk)
 
 Laundry Management System id design with help of firebase. uer can login user firebase OTP authentication.
 This app maintain all customer of user and record of all customer using firestore.
 
 This repo contain following component :
 
-1) Retrofit 
-2) Kotlin Coroutines
-3) Koin
-4) Material Design
-5) MVVM
-6) LiveData
-7) Firebase
-8) Firestore
-9) Firebase Notification
+1) Share  
+2) Firebase Firestore
+3) Firebase OTP Auth
+4) Input field for OTP
+5) Shared Preference
+6) Provider
+7) Search Bar
+8) English Word
 
 
 ## Login Page
