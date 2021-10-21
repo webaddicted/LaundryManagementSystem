@@ -24,6 +24,9 @@ This repo contain following component :
 8) English Word
 
 
+## GIF
+<img src="https://github.com/webaddicted/LaundryManagementSystem/raw/main/screenshot/fun.gif" width="205">
+
 ## Login Page
 
 <img src="https://github.com/webaddicted/LaundryManagementSystem/raw/main/screenshot/login.jpg" height="500">
