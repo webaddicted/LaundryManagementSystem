@@ -12,6 +12,10 @@
 Laundry Management System design with help of firebase. uer can login user firebase OTP authentication.
 This app maintain all customer of user and record of all customer using firestore.
 
+## GIF
+<img src="https://github.com/webaddicted/LaundryManagementSystem/raw/main/screenshot/fun.gif" width="705">
+
+
 This repo contain following component :
 
 1) Share  
@@ -23,9 +27,6 @@ This repo contain following component :
 7) Search Bar
 8) English Word
 
-
-## GIF
-<img src="https://github.com/webaddicted/LaundryManagementSystem/raw/main/screenshot/fun.gif" width="205">
 
 ## Login Page
 
